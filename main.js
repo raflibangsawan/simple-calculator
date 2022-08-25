@@ -9,7 +9,7 @@ buttons.map( button => {
                 display.innerText = '';
                 break;
             case '=':
-                display.innerText = eval(display.innerText);
+                display.innerText = eval(display.innerText) == undefined ? '0' : eval(display.innerText);
                 break;
             case 'DEL':
                 if (display.innerText){
