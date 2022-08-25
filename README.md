@@ -3,3 +3,7 @@ HTML, CSS, and JS practice purposes for my basic frontend bootcamp task.
 
 ## How to use it?
 You can simply download the folder and open index.html
+
+Nama    : Rafli Bangsawan
+Program : React and React Native for Front End Developer
+Kode    : RCTN-KS04-014
