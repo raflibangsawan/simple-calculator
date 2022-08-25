@@ -44,3 +44,9 @@
     color: white;
     transition: 0.5s ease-in-out;
 }
+
+#equal:hover {
+    background-color: rgb(123, 131, 10);
+    color: white;
+    transition: 0.5s ease-in-out;
+}
